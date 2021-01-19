@@ -28,6 +28,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +36,57 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.M{
+  color :magenta;
+}
+.header{
+  background-color: beige;
+  color: brown;
+  height: 40px;
+  text-align: center;
+  font-size: xx-large;
+  padding: 2px;
+}
+.body{
+  text-align: center;
+  font-size: medium;
+  padding: 2px;
+  color: brown;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color:beige;
+  color: brown;
+  text-align: center;
+}
+
+.form{
+  padding:10px;
+  margin:10px 0;
+}
+
+.button{
+  /* remove default behavior */
+  appearance:none;
+  -webkit-appearance:none;
+
+  /* usual styles */
+  padding:10px;
+  border:none;
+  background-color:#3F51B5;
+  color:#fff;
+  font-weight:600;
+  border-radius:5px;
+  width:10%;
+}
+
+.result{
+  color:green;
+  font-size:x-large
 }
