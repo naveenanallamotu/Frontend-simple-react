@@ -1,3 +1,7 @@
+
+url to access this app
+https://depolyable.firebaseapp.com/, deployed in firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
